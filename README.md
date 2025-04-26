@@ -5,23 +5,23 @@ OsiReverse-shell.php es una reverse shell escrita en PHP que establece una conex
 
 Caracteristicas:
 ----------------
-Conexión remota interactiva mediante sockets TCP.
+▶️Conexión remota interactiva mediante sockets TCP.
 
-Auto-discovery del entorno de ejecución.
+▶️Auto-discovery del entorno de ejecución.
 
-Usuario actual.
+▶️Usuario actual.
 
-UID / GID del proceso.
+▶️UID / GID del proceso.
 
-Sistema operativo detectado.
+▶️Sistema operativo detectado.
 
-Shell por defecto.
+▶️Shell por defecto.
 
-Uso de stream\_select para comunicación eficiente y no bloqueante.
+▶️Uso de stream\_select para comunicación eficiente y no bloqueante.
 
-Configuración sencilla de IP, puerto y shell remoto.
+▶️Configuración sencilla de IP, puerto y shell remoto.
 
-Manejo de errores básico y mensajes de depuración opcionales.
+▶️Manejo de errores básico y mensajes de depuración opcionales.
 
 ⚠️ Advertencia
 ===============================
