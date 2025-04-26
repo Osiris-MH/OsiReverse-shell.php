@@ -23,6 +23,4 @@ Configuración sencilla de IP, puerto y shell remoto.
 
 Manejo de errores básico y mensajes de depuración opcionales.
 
-Advertencia
-Este script está destinado exclusivamente para fines educativos, pruebas de penetración autorizadas y auditorías de seguridad.
-El uso no autorizado puede ser ilegal. Úsalo bajo tu propia responsabilidad.
+
