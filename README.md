@@ -1,7 +1,7 @@
 OsiReverse-shell.php
 =====================
 
-OsiReverse-shell.php es una reverse shell escrita en PHP diseñada para ser utilizada en entornos de pruebas de penetración. Este script establece una conexión con un servidor remoto (IP y puerto configurables) y ejecuta un shell interactivo.
+Es una reverse shell escrita en PHP diseñada para ser utilizada en entornos de pruebas de penetración. Este script establece una conexión con un servidor remoto (IP y puerto configurables) y ejecuta un shell interactivo.
 
 Caracteristicas:
 ----------------
