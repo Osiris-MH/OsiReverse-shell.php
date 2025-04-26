@@ -1,4 +1,5 @@
 OsiReverse-shell.php
+=====================
 
 OsiReverse-shell.php es una reverse shell escrita en PHP que establece una conexión remota hacia un servidor atacante, permitiendo la ejecución de comandos de forma interactiva.
 
