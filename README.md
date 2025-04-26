@@ -7,15 +7,15 @@ Caracteristicas:
 ----------------
 ▶️Conexión remota interactiva mediante sockets TCP.
 
-▶️Auto-discovery del entorno de ejecución.
+▶️Auto-discovery del entorno de ejecución:
 
-▶️Usuario actual.
+* Usuario actual.
 
-▶️UID / GID del proceso.
+* UID / GID del proceso.
 
-▶️Sistema operativo detectado.
+* Sistema operativo detectado.
 
-▶️Shell por defecto.
+* Shell por defecto.
 
 ▶️Uso de stream\_select para comunicación eficiente y no bloqueante.
 
