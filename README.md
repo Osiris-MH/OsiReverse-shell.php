@@ -7,7 +7,7 @@ Caracteristicas:
 ----------------
 Conexión remota interactiva mediante sockets TCP.
 
-Auto-discovery del entorno de ejecución:
+Auto-discovery del entorno de ejecución.
 
 Usuario actual.
 
