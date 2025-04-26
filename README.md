@@ -17,7 +17,7 @@ Sistema operativo detectado.
 
 Shell por defecto.
 
-Uso de stream_select para comunicación eficiente y no bloqueante.
+Uso de stream\_select para comunicación eficiente y no bloqueante.
 
 Configuración sencilla de IP, puerto y shell remoto.
 
